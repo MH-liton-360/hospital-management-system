@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Hospital Management System</h1>
+        <h1 className='text-center' >Hospital Management System</h1>
       </div>
 
     </>
