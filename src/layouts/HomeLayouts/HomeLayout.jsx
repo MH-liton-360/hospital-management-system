@@ -5,6 +5,7 @@ const HomeLayout = () => {
     return (
         <div>
             <header>
+                <Footer></Footer>
                 <Header></Header>
             </header>
 
@@ -13,7 +14,7 @@ const HomeLayout = () => {
             <main></main>
 
             <footer>
-                <Footer></Footer>
+
             </footer>
         </div>
     );
